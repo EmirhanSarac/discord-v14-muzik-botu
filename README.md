@@ -28,8 +28,8 @@ Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bo
 Detaylı Video Anlatım **[Hemen İzle](https://www.youtube.com)**
 
 ```
-git clone https://github.com/EmirhanSarac/v14-discord-müzik-botu
-cd v14-discord-müzik-botu
+git clone https://github.com/EmirhanSarac/discord-v14-muzik-botu
+cd discord-v14-muzik-botu
 npm install
 ```
 
